@@ -1,0 +1,8 @@
+mountpoints:
+  /: https://aftia.sharepoint.com/sites/devPete/Shared%20Documents/myfsiforms
+
+mountpoints:
+  /:
+    url: https://author-p8755-e1429082.adobeaemcloud.com/bin/franklin.delivery/PeterLaBelle/cme-forms-project/main
+    type: "markup"
+    suffix: ".html"
